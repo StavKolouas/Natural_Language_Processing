@@ -5,7 +5,7 @@ The goal is to transform unstructured, grammatically incorrect, or semantically 
 
 The project is divided into three main deliverables:
 
-TEXT RECONSTRUCTION
+1.TEXT RECONSTRUCTION
 
 Manual reconstruction using a custom CFG automaton built with NLTK
 
@@ -13,14 +13,14 @@ Automated reconstruction using three NLP Python pipelines
 
 Comparison between the methods
 
-COMPUTATIONAL ANALYSIS
+2.COMPUTATIONAL ANALYSIS
 
-Use of word embeddings such as Word2Vec, GloVe, FastText, and BERT embeddings to measure semantic similarity
+Use of BERT embeddings to measure semantic similarity
 
 Cosine similarity computations to compare original versus reconstructed sentences
 
-Visualization of semantic shifts using PCA and t-SNE
+Visualization of semantic shifts using  t-SNE
 
-STRUCTURED REPORT
+3.FULL DOCUMENTATION
 
 Full documentation with methodology, experiments, results, and discussion
