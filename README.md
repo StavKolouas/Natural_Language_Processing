@@ -1,5 +1,5 @@
 # Natural_Language_Processing
-OVERVIEW
+
 This project demonstrates Natural Language Processing (NLP) techniques for semantic text reconstruction and computational analysis.
 The goal is to transform unstructured, grammatically incorrect, or semantically ambiguous texts into clear, coherent, and well-structured sentences, while preserving their original meaning.
 
