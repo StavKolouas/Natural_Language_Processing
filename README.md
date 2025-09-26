@@ -24,3 +24,5 @@ Visualization of semantic shifts using  t-SNE
 3.FULL DOCUMENTATION
 
 Full documentation with methodology, experiments, results, and discussion
+
+***All executable python files are located in the repository and all the documentation as well as the explanation for 1c and delivarable2 are included in the deliverable3.pdf
